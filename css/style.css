@@ -74,14 +74,6 @@ p {
   color: #0a59ca;
 }
 
-.about-paragraphs {
-  margin: 30px 0;
-}
-
-.about-paragraphs p {
-  margin: 10px;
-}
-
 .email-link {
   display: flex;
   justify-content: center;
