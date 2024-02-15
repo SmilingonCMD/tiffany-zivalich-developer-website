@@ -96,7 +96,7 @@ p {
 
 @media (max-width: 576px) {
   h1 {
-    font-size: 44px;
+    font-size: 50px;
     margin-top: 5px;
   }
   h2 {
@@ -105,10 +105,10 @@ p {
   }
   h3 {
     margin-top: 5px;
-    font-size: 15px;
+    font-size: 20px;
   }
   .homepage-paragragh {
-    font-size: 15px;
+    font-size: 18px;
     text-align: center;
   }
   .homepage-images {
@@ -117,5 +117,9 @@ p {
   .app-link {
     display: block;
     text-align: center;
+    margin: 0 20px;
+  }
+  .about-image {
+    margin: 10px 0;
   }
 }
